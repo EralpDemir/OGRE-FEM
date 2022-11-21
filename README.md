@@ -9,4 +9,4 @@ Main runner file is OGRE_FEM.m
 
 The folder directory of the EBSD data must be specified on 5th line of OGRE_FEM.m file.
 
-The finite element related functions are in /FE folder. No need to change anything here.
+The finite element related functions are stored in /FE folder.
