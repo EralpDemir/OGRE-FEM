@@ -1,7 +1,7 @@
 # OGRE-FEM
 Orientation GRadiEnts by Finite Element Method
 
-\url{https://doi.org/10.1016/j.actamat.2022.118658}
+Publication link: https://doi.org/10.1016/j.actamat.2022.118658
 
 This code is writted to process crystal orientation measurements.
 
